@@ -38,5 +38,6 @@ public class EjemploTreeSet {
 
         System.out.println(numeros);
 
+        //Paralelo al aprendizaje de Java estamos aprendiendo a utilizar git y github
     }
 }

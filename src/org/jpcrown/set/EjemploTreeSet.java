@@ -26,6 +26,8 @@ public class EjemploTreeSet {
         ts.add("tres");
         ts.add("cuatro");
         ts.add("cinco");
+        ts.add("seis");
+        ts.add("siete");
 
         System.out.println(ts);
 

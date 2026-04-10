@@ -1,6 +1,5 @@
-package org.jpcrown.set;
+package org.jpcrown.ejemplos.set;
 
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
